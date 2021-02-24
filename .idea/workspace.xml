@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="824adf88-39ec-44eb-9052-100bb2344648" name="Default Changelist" comment="" />
+    <list default="true" id="824adf88-39ec-44eb-9052-100bb2344648" name="Default Changelist" comment="erstes commit - test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erstes_neuronales_netz_pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/erstes_neuronales_netz_pytorch.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,5 +94,9 @@
       <updated>1614162966165</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="erstes commit - test" />
+    <option name="LAST_COMMIT_MESSAGE" value="erstes commit - test" />
   </component>
 </project>
