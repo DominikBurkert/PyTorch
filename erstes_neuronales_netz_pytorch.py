@@ -11,5 +11,3 @@ import torchvision.transforms as transforms # Transformations we can perform on 
 
 #Create Fully Connected Network
 
-
-print("hallo")
