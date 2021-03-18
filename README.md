@@ -10,7 +10,7 @@ Daten werden nur für die aktuelle Sitzung geladen. Wenn eine neue Sitzung begon
 
 ## Neuronale Netze
 
-[Fully-Connected Network] () - ein erstes neuronales Netz mit pytorch. Macht dasselbe wie [Transformer Change Number] https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers.ipynb)
+[Fully-Connected Network] (https://github.com/DominikBurkert/PyTorch/blob/master/erstes_neuronales_Netz_mit_PyTorch.ipynb) - ein erstes neuronales Netz mit pytorch. Macht dasselbe wie [Transformer Change Number] https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers.ipynb)
 
 ## Transformer Network
 
