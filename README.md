@@ -2,4 +2,6 @@
 Organisatorische Dinge
 Laden von Daten: 
 
-[Text Generating LSTM](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/Projects/text_generation_babynames/generating_names.py)
+[Upload Files in Colab](https://github.com/DominikBurkert/PyTorch/blob/master/Upload_Files_in_Colab.ipynb)
+
+[Umgebungsvariablen anzeigen lassen in Colab](https://github.com/DominikBurkert/PyTorch/blob/master/Umgebungsvariablen_anzeigen_lassen.ipynb)
