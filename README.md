@@ -14,6 +14,7 @@ Daten werden nur für die aktuelle Sitzung geladen. Wenn eine neue Sitzung begon
 
 ## Transformer Network
 
-[Transformer Change Number] (https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers.ipynb) - Transformer Netzwerk welches einen Inputvektor bestehend aus 0 und 1 in 1 und 0 tauscht.
+[Transformer Change Number] (https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers.ipynb) - csv. Datei einlesen
+- Transformer Netzwerk trainieren welches einen Inputvektor bestehend aus 0 und 1 in 1 und 0 tauscht.
 
 [Transformer Translation German to English] (https://github.com/DominikBurkert/PyTorch/blob/master/TransformerNetwork_Translater_ger_eng.ipynb)
