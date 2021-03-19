@@ -21,7 +21,8 @@
 
 ## Transformer Network
 
-[Transformer Change Number](https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers.ipynb) 
+[Transformer Change Number Basic](https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers_basic.ipynb)
+- Mit Hilfe der Doku von PyTorch. Alles nur von dort implementiert
 - csv. Datei einlesen
 - Transformer Netzwerk trainieren welches einen Inputvektor bestehend aus 0 und 1 in 1 und 0 tauscht.
 
