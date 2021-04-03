@@ -19,6 +19,10 @@
 [Fully-Connected Network](https://github.com/DominikBurkert/PyTorch/blob/master/erstes_neuronales_Netz_mit_PyTorch.ipynb) 
 - ein erstes neuronales Netz mit pytorch. Macht dasselbe wie [Transformer Change Number](https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers.ipynb)
 
+## Convolutional Neural Networks (CNN)
+
+
+
 ## Transformer Network
 
 [Transformer Change Number Basic](https://github.com/DominikBurkert/PyTorch/blob/master/Transformer_Change_Numbers_basic.ipynb)
