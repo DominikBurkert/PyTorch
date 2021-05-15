@@ -1,4 +1,4 @@
-###Die Architektur von RNN und GRU unterscheidet sich nicht.
+##Die Architektur von RNN und GRU unterscheidet sich nicht.
 
 Die Architektur von LSTM unterscheidet sich minimal.
 Der einzige Unterschied ist, dass bei LSTM noch eine zusätzliche initial cell c0 eingefügt werden muss.
