@@ -33,3 +33,12 @@
 [Transformer Translation German to English](https://github.com/DominikBurkert/PyTorch/blob/master/TransformerNetwork_Translater_ger_eng.ipynb)
 - Vokabeldatensatz mithilfe von spacy einlesen
 - Transformer aufsetzen und trainieren
+
+
+
+
+## Rekurente Neuronale Netze (RNN)
+
+[Rekurentes Neuronales Netz](https://github.com/DominikBurkert/PyTorch/blob/master/erstes_neuronales_Netz_mit_PyTorch.ipynb) 
+- ein einfaches RNN das auf den MNIST Datensatz trainiert wird.
+- außerdem ist noch ein GRU und ein LSTM enthalten
