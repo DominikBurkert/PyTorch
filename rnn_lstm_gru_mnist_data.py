@@ -2,6 +2,8 @@
 CODE VON ARBEITARECHNER 
 MNIST
 RNN
+GRU
+LSTM
 """
 
 import torch
