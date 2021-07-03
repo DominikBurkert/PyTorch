@@ -15,7 +15,6 @@ import torchvision.transforms as transforms
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # Hyper-parameters 
-# input_size = 784 # 28x28
 num_classes = 10
 num_epochs = 2
 batch_size = 100
@@ -24,7 +23,7 @@ learning_rate = 0.001
 input_size = 28
 sequence_length = 28
 hidden_size = 128
-num_layers = 4 #bedeutet wird benutzen 2 RNNs. Und das 2. RNN benutzt den Output des ersten RNNs.
+num_layers = 2 #bedeutet wird benutzen 2 RNNs. Und das 2. RNN benutzt den Output des ersten RNNs.
 
 # MNIST dataset 
 train_dataset = torchvision.datasets.MNIST(root='./data', 
